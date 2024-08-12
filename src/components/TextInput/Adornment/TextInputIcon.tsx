@@ -176,9 +176,9 @@ const TextInputIcon = ({
 };
 TextInputIcon.displayName = "TextInput.Icon";
 
-TextInputIcon.defaultProps = {
-  forceTextInputFocus: true,
-};
+// TextInputIcon.defaultProps = {
+//   forceTextInputFocus: true,
+// };
 
 const styles = StyleSheet.create({
   container: {
